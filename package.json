@@ -1,0 +1,20 @@
+{
+    "name": "kivibot-plugin-chatstatistics",
+    "version": "0.0.1",
+    "description": "kivibot的聊天统计插件",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "chat",
+        "统计",
+        "kivi"
+    ],
+    "author": "islanddddddd",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:islanddddddd/kivibot-plugin-chatStatistics.git"
+    }
+}
