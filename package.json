@@ -13,6 +13,9 @@
     ],
     "author": "islanddddddd",
     "license": "ISC",
+    "peerDependencies": {
+        "@node-rs/jieba": "^1.6.2"
+    },
     "repository": {
         "type": "git",
         "url": "git@github.com:islanddddddd/kivibot-plugin-chatStatistics.git"
