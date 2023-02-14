@@ -1,6 +1,6 @@
 {
     "name": "kivibot-plugin-chatstatistics",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "kivibot的聊天统计插件",
     "main": "lib/index.js",
     "scripts": {
